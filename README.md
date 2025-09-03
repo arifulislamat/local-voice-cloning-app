@@ -7,8 +7,8 @@ Minimal voice cloning experiment. This repository contains a small Python app th
 Clone the repo to your machine (replace `<repo-url>` with the repository HTTPS or SSH URL):
 
 ```bash
-git clone <repo-url>
-cd voice-cloned-app
+git clone https://github.com/arifulislamat/local-voice-cloning-app.git
+cd local-voice-cloning-app
 ```
 
 ## Install / sync dependencies
