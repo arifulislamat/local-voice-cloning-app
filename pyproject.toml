@@ -1,0 +1,10 @@
+[project]
+name = "voice-cloned-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    {name = "Ariful Islam", email = "arifulislamat@gmail.com"}
+]
+dependencies = []
