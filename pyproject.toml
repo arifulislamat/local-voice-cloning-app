@@ -7,4 +7,19 @@ requires-python = ">=3.11"
 authors = [
     {name = "Ariful Islam", email = "arifulislamat@gmail.com"}
 ]
-dependencies = []
+dependencies = [
+    "chatterbox-tts>=0.1.2",
+    "conformer>=0.3.2",
+    "diffusers>=0.29.0",
+    "gradio>=5.44.1",
+    "librosa>=0.11.0",
+    "numpy>=2.2.6",
+    "peft>=0.7.0",
+    "python-dotenv>=1.1.1",
+    "resemble-perth>=1.0.1",
+    "s3tokenizer>=0.2.0",
+    "safetensors>=0.5.3",
+    "torch>=2.6.0",
+    "torchaudio>=2.6.0",
+    "transformers>=4.46.3",
+]
