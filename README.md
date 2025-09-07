@@ -48,17 +48,13 @@ python main.py
 
 # Demo Videos
 
-### Short Demo
+## Short Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iYpYCwfog5w" title="Short Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/iYpYCwfog5w/maxresdefault.jpg)](https://www.youtube.com/watch?v=iYpYCwfog5w)
 
-[Watch on YouTube](https://youtu.be/iYpYCwfog5w)
+## How to run the App on your computer
 
-### How to run the App on your computer
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4NbNRbZqhfE" title="Showcase: How to Run the App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Watch on YouTube](https://www.youtube.com/watch?v=4NbNRbZqhfE)
+[![Watch the video](https://img.youtube.com/vi/4NbNRbZqhfE/maxresdefault.jpg)](https://www.youtube.com/watch?v=4NbNRbZqhfE)
 
 ## .env file — what to put there
 
