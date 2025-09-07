@@ -46,6 +46,20 @@ python main.py
 
 **Note:** The app will automatically use your CUDA GPU (NVIDIA) if available for faster inference. If no compatible GPU is found, it will fall back to CPU mode automatically.
 
+# Demo Videos
+
+### Short Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iYpYCwfog5w" title="Short Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://youtu.be/iYpYCwfog5w)
+
+### How to run the App on your computer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4NbNRbZqhfE" title="Showcase: How to Run the App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=4NbNRbZqhfE)
+
 ## .env file — what to put there
 
 A `.env` file is already included in the repository for your convenience. **Review and update as needed before running the app.** Do not share sensitive information from `.env` publicly.
